@@ -1,0 +1,34 @@
+{
+ "region": "경남 진주시 가좌동",
+ "nameEn": "Gyeongsang National University Gajwa Campus",
+ "added": "2026-10-24",
+ "rank": 5,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "YIT",
+   "campus": "연암공과대학교",
+   "km": 1.1
+  },
+  {
+   "code": "GNU-CHILAM",
+   "campus": "경상국립대학교 칠암캠퍼스",
+   "km": 2.7
+  },
+  {
+   "code": "CNUE",
+   "campus": "진주교육대학교",
+   "km": 4.6
+  },
+  {
+   "code": "JHC",
+   "campus": "진주보건대학교",
+   "km": 5.7
+  },
+  {
+   "code": "MASAN",
+   "campus": "마산대학교",
+   "km": 38.6
+  }
+ ]
+}
